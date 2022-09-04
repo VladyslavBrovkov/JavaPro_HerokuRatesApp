@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="Dependency commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -544,14 +545,7 @@
       <workItem from="1661868145524" duration="2498000" />
       <workItem from="1661876127559" duration="1042000" />
       <workItem from="1662025986878" duration="2239000" />
-      <workItem from="1662289643041" duration="15624000" />
-    </task>
-    <task id="LOCAL-00004" summary="up3">
-      <created>1523568582305</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1523568582305</updated>
+      <workItem from="1662289643041" duration="16942000" />
     </task>
     <task id="LOCAL-00005" summary="up4">
       <created>1523568835361</created>
@@ -889,7 +883,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662302454747</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Dependency commit">
+      <created>1662317367923</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1662317367923</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

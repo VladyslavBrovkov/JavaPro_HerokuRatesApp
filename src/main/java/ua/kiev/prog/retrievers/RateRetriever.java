@@ -1,10 +1,15 @@
 package ua.kiev.prog.retrievers;
 
 import org.springframework.cache.annotation.Cacheable;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 import ua.kiev.prog.json.Rate;
+
+import java.util.HashMap;
 
 @Component
 public class RateRetriever {
@@ -13,8 +18,12 @@ public class RateRetriever {
 
     @Cacheable("rates")
     public Rate getRate() {
+        HttpHeaders headers = new HttpHeaders();
+        headers.add("user-agent", "Application");
+        HttpEntity<String> entity = new HttpEntity<>(headers);
         RestTemplate restTemplate = new RestTemplate();
-        ResponseEntity<Rate> response = restTemplate.getForEntity(URL, Rate.class);
-        return response.getBody();
+        Rate rate = restTemplate
+                .exchange("/rate",HttpMethod.GET, entity, Rate.class).getBody();
+        return rate;
     }
 }

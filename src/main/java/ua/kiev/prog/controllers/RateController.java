@@ -25,6 +25,7 @@ public class RateController {
 
     @GetMapping("/rate")
     public Rate rate(HttpServletRequest request) {
+
         String ip = request.getRemoteAddr();
 
         LocationDTO location = geoRetriever.getLocation(ip);
