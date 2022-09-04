@@ -94,7 +94,9 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.3.22" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.3.22" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.24" level="project" />
-    <orderEntry type="library" name="Maven: org.postgresql:postgresql:42.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.h2database:h2:2.1.214" level="project" />
+    <orderEntry type="library" name="Maven: org.postgresql:postgresql:42.3.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.checkerframework:checker-qual:3.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:2.7.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:2.7.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.7.2" level="project" />
