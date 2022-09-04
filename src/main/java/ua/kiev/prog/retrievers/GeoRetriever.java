@@ -7,7 +7,7 @@ import ua.kiev.prog.dto.LocationDTO;
 
 @Component
 public class GeoRetriever {
-    private static final String URL = "http://ipinfo.io/";
+    private static final String URL = "https://ipinfo.io/";
 
     public LocationDTO getLocation(String ip) {
         RestTemplate restTemplate = new RestTemplate();

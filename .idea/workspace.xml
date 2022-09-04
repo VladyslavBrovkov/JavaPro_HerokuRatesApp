@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="Dependency commit">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="Dependency commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -543,14 +541,7 @@
       <workItem from="1661868145524" duration="2498000" />
       <workItem from="1661876127559" duration="1042000" />
       <workItem from="1662025986878" duration="2239000" />
-      <workItem from="1662289643041" duration="11017000" />
-    </task>
-    <task id="LOCAL-00001" summary="up">
-      <created>1523565435919</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1523565435919</updated>
+      <workItem from="1662289643041" duration="11332000" />
     </task>
     <task id="LOCAL-00002" summary="up1">
       <created>1523566380052</created>
@@ -881,7 +872,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662300498093</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Dependency commit">
+      <created>1662300852747</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1662300852747</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Dependency commit">
+      <created>1662300862010</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1662300862011</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
