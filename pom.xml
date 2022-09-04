@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<scope>42.2.1</scope>
+			<version>42.2.1</version>
 		</dependency>
 
 		<dependency>
