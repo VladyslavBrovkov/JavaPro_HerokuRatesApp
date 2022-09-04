@@ -25,7 +25,7 @@ public class RateController {
     }
 
     @GetMapping("/rate")
-    public Rate rate(HttpServletRequest request) throws URISyntaxException {
+    public Rate rate(HttpServletRequest request) {
 
         String ip = request.getRemoteAddr();
 
