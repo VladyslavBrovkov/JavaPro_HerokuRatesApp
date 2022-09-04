@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="up5">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/SpringGeoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/SpringGeoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/GeoRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/GeoRetriever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -556,7 +543,7 @@
       <workItem from="1661868145524" duration="2498000" />
       <workItem from="1661876127559" duration="1042000" />
       <workItem from="1662025986878" duration="2239000" />
-      <workItem from="1662289643041" duration="4145000" />
+      <workItem from="1662289643041" duration="5023000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1523565435919</created>
