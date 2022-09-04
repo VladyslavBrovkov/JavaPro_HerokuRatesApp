@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="Dependency commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" afterDir="false" />
+    <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="Final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,6 +301,7 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vlad/Desktop/ProgAcademy/Java PRO/Урок 14/SpringGeo1/src/main/resources/static/images",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -319,16 +320,19 @@
       <recent name="ua.kiev.prog" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vlad\Desktop\ProgAcademy\Java PRO\Урок 14\SpringGeo1\src\main\resources\static\images" />
       <recent name="C:\Users\Bios\IdeaProjects\SpringGeo1\src\main\resources\static\images" />
       <recent name="C:\Users\Bios\IdeaProjects\SpringGeo1\src\main\resources\static\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vlad\Desktop\ProgAcademy\Java PRO\Урок 14\SpringGeo1\target\classes\static\images" />
+      <recent name="C:\Users\Vlad\Desktop\ProgAcademy\Java PRO\Урок 14\SpringGeo1\src\main\resources\static\images" />
+      <recent name="C:\Users\Bios\IdeaProjects\SpringGeo1\src\main\resources\static" />
+      <recent name="C:\Users\Bios\IdeaProjects\SpringGeo1\src\main\resources\templates" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ua.kiev.prog.dto" />
       <recent name="ua.kiev.prog" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Bios\IdeaProjects\SpringGeo1\src\main\resources\static" />
-      <recent name="C:\Users\Bios\IdeaProjects\SpringGeo1\src\main\resources\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -544,14 +548,7 @@
       <workItem from="1661868145524" duration="2498000" />
       <workItem from="1661876127559" duration="1042000" />
       <workItem from="1662025986878" duration="2239000" />
-      <workItem from="1662289643041" duration="17768000" />
-    </task>
-    <task id="LOCAL-00007" summary="up4">
-      <created>1523569484831</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1523569484831</updated>
+      <workItem from="1662289643041" duration="18831000" />
     </task>
     <task id="LOCAL-00008" summary="up4">
       <created>1523569811856</created>
@@ -889,7 +886,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662319051059</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Dependency commit">
+      <created>1662319567086</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1662319567086</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -985,7 +989,8 @@
     <MESSAGE value="up4" />
     <MESSAGE value="app.prop.commit" />
     <MESSAGE value="Dependency commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency commit" />
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
