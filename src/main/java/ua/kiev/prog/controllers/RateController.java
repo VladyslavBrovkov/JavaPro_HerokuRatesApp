@@ -9,6 +9,7 @@ import ua.kiev.prog.retrievers.RateRetriever;
 import ua.kiev.prog.services.LocationService;
 
 import javax.servlet.http.HttpServletRequest;
+import java.net.URISyntaxException;
 
 @RestController
 public class RateController {
@@ -24,7 +25,7 @@ public class RateController {
     }
 
     @GetMapping("/rate")
-    public Rate rate(HttpServletRequest request) {
+    public Rate rate(HttpServletRequest request) throws URISyntaxException {
 
         String ip = request.getRemoteAddr();
 

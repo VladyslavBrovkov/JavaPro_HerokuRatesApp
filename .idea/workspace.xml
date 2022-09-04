@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27bd7773-464f-4d76-ba3a-f60515ef6f21" name="Default" comment="Dependency commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/RateController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" afterDir="false" />
     </list>
@@ -545,14 +544,7 @@
       <workItem from="1661868145524" duration="2498000" />
       <workItem from="1661876127559" duration="1042000" />
       <workItem from="1662025986878" duration="2239000" />
-      <workItem from="1662289643041" duration="16942000" />
-    </task>
-    <task id="LOCAL-00005" summary="up4">
-      <created>1523568835361</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1523568835361</updated>
+      <workItem from="1662289643041" duration="17272000" />
     </task>
     <task id="LOCAL-00006" summary="up4">
       <created>1523569331656</created>
@@ -890,7 +882,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662317367923</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Dependency commit">
+      <created>1662318742314</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1662318742314</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
